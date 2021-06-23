@@ -1,0 +1,2 @@
+insert into tb_estudante (ra, name, telephone, classes, mother_name) VALUES (10, 'Ciclana', '1234567891', 'Nutrição', 'Maria Ciclana');
+insert into tb_estudante (ra, name, telephone, classes, mother_name) VALUES (11, 'Celina Tavares', '9876543210', 'Recursos Humanos', 'Carla Maria');
